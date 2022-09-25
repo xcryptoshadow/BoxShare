@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159602786169",
+    "project_id": "right-share",
+    "storage_bucket": "right-share.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159602786169:android:f3aaa1005aaabcd258f9a8",
+        "android_client_info": {
+          "package_name": "com.rightshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159602786169-g4buc4dl1h247vs6er4n7nuovtb1g14m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rightshare",
+            "certificate_hash": "722278043c2b145f6af5dad82dc59aef20db5278"
+          }
+        },
+        {
+          "client_id": "159602786169-776nnheib76t0h9cobnd4d2332m07ior.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJCQ53adILozJ1fZZ7p9mQzptXTVEKoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159602786169-776nnheib76t0h9cobnd4d2332m07ior.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
