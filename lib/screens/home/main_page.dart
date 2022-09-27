@@ -8,6 +8,8 @@ import 'package:giga_share/screens/home/home_screen.dart';
 import 'package:giga_share/screens/home/paste_bin_screen.dart';
 import 'package:giga_share/screens/home/profile_screen.dart';
 
+import 'mint_screen.dart';
+
 class MainPage extends StatefulWidget {
   const MainPage({Key? key}) : super(key: key);
 
@@ -27,6 +29,7 @@ class _MainPageState extends State<MainPage> {
   List<Widget> pages = [
     HomeScreen(),
     PasteBinScreen(),
+    MintingScreen(),
     HistoryScreen(),
     ProfileScreen(),
   ];
@@ -70,8 +73,17 @@ class _MainPageState extends State<MainPage> {
               ),
               BottomNavigationBarItem(
                 icon: Image.asset(
-                  ImageResources.historyIcon,
+                  ImageResources.mintingNFTIcon,
                   color: _page == 2 ? ColorConstants.appColor : Colors.black,
+                  height: 30,
+                  width: 30,
+                ),
+                label: 'Paste Bin',
+              ),
+              BottomNavigationBarItem(
+                icon: Image.asset(
+                  ImageResources.historyIcon,
+                  color: _page == 3 ? ColorConstants.appColor : Colors.black,
                   height: 30,
                   width: 30,
                 ),
@@ -80,7 +92,7 @@ class _MainPageState extends State<MainPage> {
               BottomNavigationBarItem(
                 icon: Icon(
                   Icons.person,
-                  color: _page == 3 ? ColorConstants.appColor : Colors.black,
+                  color: _page == 4 ? ColorConstants.appColor : Colors.black,
                 ),
                 label: 'Accounts',
               ),

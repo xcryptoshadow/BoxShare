@@ -23,11 +23,10 @@ class FilePickerService {
 
 //PICKER
   static Future<FilePickerResult?> pickFile(BuildContext context) async {
-    final FilePicker _picker = FilePicker.platform;
 
     try {
       // Pick an file
-      FilePickerResult? file = await _picker.pickFiles();
+      FilePickerResult? file = await FilePicker.platform.pickFiles(allowMultiple: false);
 
       //Nothing picked
       if (file == null) {

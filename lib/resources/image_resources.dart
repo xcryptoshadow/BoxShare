@@ -20,5 +20,6 @@ class ImageResources {
   static const String historyIcon = "$assetIconBase/history_icon.png";
   static const String fileUrlIcon = "$assetIconBase/file_url_icon.png";
   static const String pasteBinIcon = "$assetIconBase/paste_bin_icon.png";
+  static const String mintingNFTIcon = "$assetIconBase/minting_nft_icon.png";
   static const String appIcon = "$assetIconBase/app_icon.png";
 }

@@ -26,6 +26,7 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await SystemChrome.setPreferredOrientations(
       [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
+
   WidgetsFlutterBinding.ensureInitialized();
 
   if (kIsWeb) {
@@ -70,7 +71,7 @@ class MyApp extends StatelessWidget {
       child: GetMaterialApp(
         navigatorKey: navigatorKey,
         debugShowCheckedModeBanner: false,
-        title: 'Giga Share',
+        title: 'Box Share',
         theme: ThemeData(
           fontFamily: 'Montserrat',
           primaryColor: Colors.blueAccent,

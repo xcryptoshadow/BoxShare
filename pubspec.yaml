@@ -29,7 +29,7 @@ environment:
 dependencies:
   connectivity: ^3.0.6
   cupertino_icons: ^1.0.5
-  file_picker: ^5.0.1
+  file_picker: ^5.2.0+1
   firebase_auth: ^3.10.0
   firebase_core: ^1.23.0
   firebase_database: ^9.1.5
