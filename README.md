@@ -25,6 +25,6 @@ Benefits of Box Share for file sharing:
 
 
 ## IPFS & Filecoin:  Easily upload the media files and mint the nft.
-### [&#8594; Code](https://github.com/xcryptoshadow/BoxShare/blob/63534549becb3424aef62f10ce1bfeeeafe21c03/lib/services/mint_service.dart) | [&#8594; More Info](https://github.com/xcryptoshadow/BoxShare/blob/main/nftport.md)
+### [&#8594; Code](https://github.com/xcryptoshadow/BoxShare/blob/63534549becb3424aef62f10ce1bfeeeafe21c03/lib/services/mint_service.dart) | [&#8594; More Info](https://github.com/xcryptoshadow/BoxShare/blob/main/ipfs.md)
 
 
