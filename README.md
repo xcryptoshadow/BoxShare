@@ -32,8 +32,8 @@ Benefits of Box Share for file sharing:
 ### [&#8594; Code](https://github.com/xcryptoshadow/BoxShare/blob/63534549becb3424aef62f10ce1bfeeeafe21c03/lib/services/mint_service.dart) | [&#8594; More Info](https://github.com/xcryptoshadow/BoxShare/blob/main/ipfs.md)
 
 ## Valist :  
-> we have listed our app on valist. 
-### [&#8594; More Info](https://github.com/xcryptoshadow/BoxShare/blob/main/covalent.md)
+> We have listed our app on valist. 
+### [&#8594; Visit](https://app.valist.io/boxshare/boxshare)
 
 ## Covalent: 
 > Fetch user data using covalent
