@@ -20,23 +20,31 @@ Benefits of Box Share for file sharing:
 
 # Bounty List 
 
-## NFT Port:  We are using easy minting using nft port.
+## NFT Port: 
+> We are using easy minting using nft port.
 ### [&#8594; Code](https://github.com/xcryptoshadow/BoxShare/blob/63534549becb3424aef62f10ce1bfeeeafe21c03/lib/services/mint_service.dart) | [&#8594; More Info](https://github.com/xcryptoshadow/BoxShare/blob/main/nftport.md)
 
 
-## IPFS & Filecoin:  Easily upload the media files and mint the nft.
+
+
+## IPFS & Filecoin: 
+> Easily upload the media files and mint the nft.
 ### [&#8594; Code](https://github.com/xcryptoshadow/BoxShare/blob/63534549becb3424aef62f10ce1bfeeeafe21c03/lib/services/mint_service.dart) | [&#8594; More Info](https://github.com/xcryptoshadow/BoxShare/blob/main/ipfs.md)
 
-## Valist :  + we have listed our app on valist. 
+## Valist :  
+> we have listed our app on valist. 
 ### [&#8594; More Info](https://github.com/xcryptoshadow/BoxShare/blob/main/covalent.md)
 
-## Covalent:  Fetch user data using covalent
+## Covalent: 
+> Fetch user data using covalent
 ### [&#8594; More Info](https://github.com/xcryptoshadow/BoxShare/blob/main/covalent.md)
 
-## Polygon :  Ue are minting nft on the polygon
+## Polygon : 
+> Ue are minting nft on the polygon
 ### [&#8594; More Info](https://github.com/xcryptoshadow/BoxShare/blob/main/polygon.md)
 
-## Livepeer  : User can watch the live stream online
+## Livepeer  : 
+> User can watch the live stream online
 ### [&#8594; More Info](https://github.com/xcryptoshadow/BoxShare/blob/main/livepeer.md)
 
 
